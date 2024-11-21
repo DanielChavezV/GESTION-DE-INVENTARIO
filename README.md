@@ -56,7 +56,7 @@ Este proyecto implementa un sistema de gestión de inventarios que permite regis
    Si estás utilizando Git, clona el repositorio a tu máquina local:
 
 ```bash
-git clone  https://github.com/DanielChavezV/Parcial_Programacion_I.git
+git clone  https://github.com/DanielChavezV/GESTION-DE-INVENTARIO.git
 ```
 
 
