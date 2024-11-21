@@ -1,5 +1,7 @@
 # Sistema de Gestión de Inventarios
 
+ ![Fondo](https://cdn2.hubspot.net/hubfs/2283874/Fotos%20blog/inventario.jpg)
+
 ## Descripción
 
 Este proyecto implementa un sistema de gestión de inventarios que permite registrar, administrar y consultar información relacionada con productos, categorías, proveedores y bodegas. El sistema facilita la gestión eficiente del stock y las relaciones entre las entidades involucradas.
