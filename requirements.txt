@@ -1,0 +1,1 @@
+tkinter, ttk, y messagebox (incluidos en Python estándar).
